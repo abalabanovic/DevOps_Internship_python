@@ -1,0 +1,29 @@
+{
+  "title": "My Survey",
+  "questions": [
+    {
+      "family": "single_choice",
+      "subtype": "vertical",
+      "heading": "What is your favorite color?",
+      "answers": {
+        "choices": [
+          {"text": "Red"},
+          {"text": "Blue"},
+          {"text": "Green"}
+        ]
+      }
+    },
+    {
+      "family": "single_choice",
+      "subtype": "vertical",
+      "heading": "How often do you exercise?",
+      "answers": {
+        "choices": [
+          {"text": "Every day"},
+          {"text": "A few times a week"},
+          {"text": "Rarely or never"}
+        ]
+      }
+    }
+  ]
+}
